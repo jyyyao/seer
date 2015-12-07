@@ -135,3 +135,6 @@ Seer will **NOT** be responsible to register class for you. You will be responsi
 ~~你们千万要记着，不要见风就是雨。你们本身也要判断，明白意思吗？假使这些完全无中生有的东西，你再帮他说一遍，你等于……你也有责任吧。~~
 
 
+### 8. 什么情况下刷不出来课?
+1. 有位置的时候客服睡着了 (白金会员退款)
+2. 没人drop……命运啊……#学长只能帮你到这了#
