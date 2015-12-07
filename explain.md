@@ -117,7 +117,7 @@ Seer will **NOT** be responsible to register class for you. You will be responsi
 
 ### 7. 你们搞这个~~大新闻~~,~~中央~~也支持吗
 
-我可以很明确地告诉你, **资瓷**. 
+我可以很明确地告诉你, ~~**当然啦**~~ 
 
 已经间接地得到了CS系Steve Herzog的批准.
 
@@ -125,7 +125,7 @@ Seer will **NOT** be responsible to register class for you. You will be responsi
 
 因为最开始是刷CS课的,当然问一下CS advisor啦.
 
-#### 7.2 这样是不是给人一种内定、钦定的感觉?
+#### ~~7.2 这样是不是给人一种内定、钦定的感觉?~~
 
 ~~你们千万要记着，不要见风就是雨。你们本身也要判断，明白意思吗？假使这些完全无中生有的东西，你再帮他说一遍，你等于……你也有责任吧。~~
 
