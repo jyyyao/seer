@@ -44,8 +44,9 @@ Course Seer App 帮你实时关注你想选的课程的状态，一旦有已注�
 	* 白金不需要邮箱.
 
 3. 付款:
-	* Chase用户: Quick pay: xunlaobbs@gmail.com
-	* Paypal: xunlaobbs@gmail.com
+	* Chase用户: Quick pay: 
+	* 非Chase用户: Paypal
+	* 非网银用户: Cash
 	* 人民币结算: 请联系客服xunlaobbs@gmail.com.
 
 4. 然后呢?
