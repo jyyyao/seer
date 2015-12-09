@@ -55,7 +55,8 @@ Course Seer App 帮你实时关注你想选的课程的状态，一旦有已注�
 | email提醒? | YES     | 有但不需要  |
 | 需要密码**吗 | 不需要     | 可以需要***   |
 | [选不上课]的话全额退款?* | NO     | YES   |
-|.|.|.|
+
+<!--|.|.|.|-->
 
 
 *If the section just doesn't open until the ADD DEADLINE, you pay NOTHING. 
@@ -74,10 +75,10 @@ Seer will **NOT** be responsible to register class for you. You will be responsi
 
 本app是某些人因为手刷了很多很多课后放弃挣扎而开始制作的app. 可能你觉得[手刷也可以]或者觉得[机器总有一天会反抗、杀光人类]……*good luck xD*. 
 
-### 4. 黄金会员可以先等他出seat再付款吗?
+<!--### 4. 黄金会员可以先等他出seat再付款吗?
 引用: *蛤某人: "吼啊"*. 
 
-然而客服需要你的transcript来确定你是否够格. 基本上非senior都可以满足.
+然而客服需要你的transcript来确定你是否够格. 基本上非senior都可以满足.-->
 
 ### 5. 你可以不要那么贵吗?
 如果你不喝*茶太*,*星巴克*我也无言以对.
@@ -88,10 +89,10 @@ Seer will **NOT** be responsible to register class for you. You will be responsi
 
 (*某老板: 这个月的服务器维护费又要交不上了...*)
 
-### 5.1 白金会员你可以不要我密码吗? 我跟女朋友**用illinois邮箱的
+### 5.1 白金会员你可以不要我密码吗?
 ……
 
-可以,客服给你占课,但最好先跟老板沟通好.
+可以,客服给你占课,但最好先跟客服沟通好.
 
 ### 6. 你都刷上了什么课,你说说
 
@@ -128,7 +129,7 @@ Seer will **NOT** be responsible to register class for you. You will be responsi
 2. 没人drop……命运啊……#学长只能帮你到这了# (白金会员可以选择退款)
 
 
-### 9. Seer为什么不能保证刷出来课?
+<!--### 9. Seer为什么不能保证刷出来课?
 如果其他人不drop,Seer怎么刷都刷不出来. Seer能做的,就是每秒告诉你1次(每天≈80,000次)这个课开了没开.
 
 ## 模拟情景: 为什么要用这个破玩意儿
@@ -150,3 +151,4 @@ Seer will **NOT** be responsible to register class for you. You will be responsi
 > *CS 999*选上了.
 
 7. "我的命运,我做主."大雄发了一条朋友圈.
+-->
